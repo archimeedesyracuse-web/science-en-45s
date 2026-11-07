@@ -1,0 +1,5 @@
+edge-tts
+Pillow
+python-dotenv
+requests
+pydub
